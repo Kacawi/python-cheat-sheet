@@ -29,7 +29,7 @@ Not a total beginner? Jump straight down to the [examples](#examples) or get the
 
 ## 1. Prepare Data <a name="prepare"></a>
 
-NumPy is probably your best friend for that. Check out my CheatSheet [here](https://github.com/juliangaal/python-cheat-sheet/blob/master/NumPy/NumPy.md)
+NumPy ([my cheat sheet](https://github.com/juliangaal/python-cheat-sheet/blob/master/NumPy/NumPy.md), [official docs](http://www.numpy.org/)or [Pandas](http://pandas.pydata.org/)is probably your best friend for that.
 
 ## 2. Plots <a name="plots"></a>
 
