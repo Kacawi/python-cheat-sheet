@@ -83,7 +83,7 @@ Suggestions?
 | Operator    | Description     | Documentation |
 | :------------- | :------------- | :----------- |
 |`plt.savefig('pic.png')`|Saves plot/figure to image|[link](http://matplotlib.org/api/pyplot_api.html?highlight=savefig#matplotlib.pyplot.savefig)|
-|`plt.savefig('transparentback.png')`|Saves transparent plot/figure to image|see above|
+|`plt.savefig('transparentback.png', transparent=True)`|Saves transparent plot/figure to image|see above|
 
 
 ### Customization <a name="custom"></a>
