@@ -138,7 +138,7 @@ Suggestions?
 | :------------- | :------------- | :----------- |
 |`plt.title('just a title')`|Sets title of plot|[link](http://matplotlib.org/api/pyplot_api.html?highlight=title#matplotlib.pyplot.title)|
 |`plt.xlabel('x-axis')`|Sets label next to x-axis|[link](http://matplotlib.org/api/pyplot_api.html?highlight=xlabel#matplotlib.pyplot.xlabel)|
-|`plt.ylabel('y-axis')``|Sets label next to y-axis|[link](http://matplotlib.org/api/pyplot_api.html?highlight=ylabel#matplotlib.pyplot.ylabel)|
+|`plt.ylabel('y-axis')`|Sets label next to y-axis|[link](http://matplotlib.org/api/pyplot_api.html?highlight=ylabel#matplotlib.pyplot.ylabel)|
 |`ax.set(title='axis', ylabel='Y-Axis', xlabel='X-Axis')`|Set title and axis labels|[link](http://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.set.html?highlight=set#matplotlib.axes.Axes.set)|
 |`ax.legend(loc='best')`|No overlapping plot elements|[link](http://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.legend.html?highlight=legend#matplotlib.axes.Axes.legend)|
 
