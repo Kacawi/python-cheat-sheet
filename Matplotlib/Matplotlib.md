@@ -39,7 +39,7 @@ NumPy ([my cheat sheet](https://github.com/juliangaal/python-cheat-sheet/blob/ma
 
 | Operator    | Description     | Documentation |
 | :------------- | :------------- | :----------- |
-| `fig = plt.figures()`      | a container that contains all plot elements | [link](http://matplotlib.org/api/figure_api.html) |
+| `fig = plt.figure()`      | a container that contains all plot elements | [link](http://matplotlib.org/api/figure_api.html) |
 
 *Axes* <a name="axes"></a>
 
