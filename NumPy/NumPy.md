@@ -279,5 +279,5 @@ print(x[x < 5])
 </br>
 
 ## Credits <a name="creds"></a>
-[Datacamp](https://www.datacamp.com/home),
+[Datacamp](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet),
 [Quandl](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) & [Official docs](https://docs.scipy.org/doc/numpy/)
