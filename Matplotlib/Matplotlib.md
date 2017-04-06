@@ -314,4 +314,4 @@ plt.show()
 ```
 ![alt-text](/img/advanced.png)
 
-Sources: [Datacamp](www.datacamp.com), [Official Docs](http://matplotlib.org/api/) and [Quandl](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf)
+Sources: [Datacamp](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet), [Official Docs](http://matplotlib.org/api/) and [Quandl](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf)
